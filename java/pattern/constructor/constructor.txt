@@ -1,0 +1,7 @@
+-> Constructor is a block of code similar to a method.
+-> Constructor is used in creation of an object.
+-> Typically it performs operations require to initialize a non-static member of a class
+   before the variable and method are invoked.
+-> a constructor is called when an instance (object) of a class is created
+-> Everytime when we create an object using new keyword atleast one constructor 
+   must be called
