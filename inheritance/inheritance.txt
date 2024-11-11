@@ -1,0 +1,2 @@
+Defination:- 
+             IS-A-RELATIONSHIP is also know as "Inheritance".
