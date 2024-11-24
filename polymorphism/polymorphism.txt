@@ -1,0 +1,3 @@
+Polymorphism is the Greek word poly means many and morph means form.
+
+ One object can have multiple forms is know as polymorphism.
