@@ -1,0 +1,1 @@
+CompileTime Polymorphism achieve at compile time and some behavior is executed is know as compileTime Polymorphism.
