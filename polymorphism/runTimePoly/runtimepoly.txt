@@ -1,0 +1,2 @@
+Runtime polymorphism achieve at runtime and some behavior are executed.
+runtime polymorphism achieve using method overriding.
